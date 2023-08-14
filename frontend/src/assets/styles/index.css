@@ -10,9 +10,12 @@ main {
     color: #f8e825;
   }
   
-  .rating-text {
+  .rating-text, .rating-text2 {
     font-size: 0.8rem;
     font-weight: 600;
+  }
+
+  .rating-text{
     padding-left: 0.5rem;
   }
   
